@@ -1,0 +1,43 @@
+html{
+height: 100%;
+}
+
+body {
+color: white;
+background-color: rgb(34, 34, 39);
+min-height: 100%;
+display: flex;
+flex-direction: column;
+}
+
+header {
+border: 5px outset gray;
+text-align: center;
+}
+
+div.content {
+padding: 30px 200px 30px 200px;
+}
+
+div.about {
+clear: both;
+width: 1000px;
+float: left;
+}
+
+footer {
+padding: 0px 0px 100px 0px;
+background-color: gray;
+clear: both;
+text-align: center;
+
+margin-top: auto;
+}
+
+p.FooterText {
+font-size: 1.3em;
+margin: 0;
+padding: 0;
+text-align: center;
+transform: translateY(150%);
+}
