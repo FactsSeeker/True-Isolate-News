@@ -1,0 +1,27 @@
+  UPDATES:
+  - login is completed
+
+  - !!when clicking topics it brings to older version of site : Yessir
+
+  - submition site: Need revamp
+
+  - Erie Canal: Change styling in About, Contact, and Legal, (Topics as well). Will be done by end of day 7/12/2021 
+
+  - Plop Turkey: will provide moral support - Will be done by 7/13/2055
+
+
+About:
+Who are we?
+Isolate News is an organization built around providing you the most amount of information with the least amount of bias. We take pride in not only giving a large spectrum of perspectives for every topic, but also in providing information that's free from personal bias. Additionally, Isolate News prioritizes user safety and privacy. No information of user data is stored.
+
+Social Media?
+Check out our youtube channel located on the footer and here for daily video journalism. Check out our instagram as well which will be coming soon!
+
+How to navigate?
+You can go to our articles by going to the Categories section or choose other sections from the navigation bar.
+
+How to contact us?
+Check our Contact section!
+
+Forums?
+Check out our forums to speak with other viewers and even members of Isolate News. Servers are slow hence please excuse the latency when connecting to the forums through your browser. 

@@ -3,8 +3,8 @@ function stuff(ev) {
   let password = document.getElementById('password').value;
   let username = document.getElementById('username').value;
   let info = document.querySelector('.incorrect');
-  if (username == 'SuperFish12' && password == 'PasswordAdmin') {
-    location.replace("/Submit/Submit.html");
+  if (username == 'Isolate201' && password == 'News102') {
+    location.replace("https://isolatenews.rf.gd/submissions");
   } else {
     info.innerHTML = 'incorrect';
   }

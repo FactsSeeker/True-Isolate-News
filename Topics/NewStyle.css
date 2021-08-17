@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  list-style: none;
+  color: black;
+}
+
+body {
+  background-color: #f1f1f1;
+}
+
+header nav li{
+  display: inline-block;
+  padding: 5px;
+  margin: 15px 10px 15px 15px;
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 14px;
+}
+
+.page-name {
+  margin-right: 530px;
+  font-size: 25px;
+  border-top: black 1px solid;
+  border-bottom: black 1px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+header {
+  background-color: #d4d9dd;
+}
+
+.page-link:hover {
+  text-decoration: underline;
+}
+
+.ListDes{
+  font-family: 'Julius Sans One', sans-serif;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: black 1px solid;
+  font-size: 2em;
+}
+
+.ListDes :hover{
+  color: gold;
+}
+
+.content-box {
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: #424246 0.1px solid;
+  height: auto;
+  width: 85%;
+  background-color: #eeefea;
+  padding: 15px;
+}
+
+#TopicsBox {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+footer {
+  width: 95%;
+  height: 80px;
+  margin: auto;
+  margin-bottom: 10px;
+  border: 0.1px #424246 solid;
+  background-color: #e6e8ea;
+}
+
+.footer-content {
+  margin-top: 10px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.footer-hr {
+  width: 70%;
+  margin: auto;
+}
+
+.socials {
+  text-align: center;
+}
+
+.socials li{
+  margin: 5px 10px 0px 10px;
+  display: inline-block;
+}
+
+#icon {
+  width: 30px;
+  height: 30px;
+}

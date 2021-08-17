@@ -115,3 +115,15 @@ ul.topicos {
   clear: both;
   padding: 100px
 }
+
+section_titles {
+  text-decoration: none;
+  color: white;
+}
+
+section_titles:hover {
+  background: #fff;
+  color: darkblue;
+}
+
+
